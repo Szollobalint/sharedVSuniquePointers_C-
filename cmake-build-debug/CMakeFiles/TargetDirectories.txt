@@ -1,0 +1,3 @@
+C:/Users/balint/Documents/c++ projects/sandbox/cmake-build-debug/CMakeFiles/sandbox.dir
+C:/Users/balint/Documents/c++ projects/sandbox/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/balint/Documents/c++ projects/sandbox/cmake-build-debug/CMakeFiles/rebuild_cache.dir
